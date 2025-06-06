@@ -74,10 +74,7 @@ I am a **Full Stack Developer** with a strong focus on building scalable **backe
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/anuragprajapati29/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:anurag.prajapatiktn@gmail"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=anuragprajapati&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anuragprajapati&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragprajapati&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" /> </p>
 
 ---
 

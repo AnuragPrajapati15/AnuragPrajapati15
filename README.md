@@ -45,17 +45,30 @@ I am a **Full Stack Developer** with a strong focus on building scalable **backe
 
 ### 🚀 Projects & Experience
 
-- 🪙 **[MyCowrie.org](https://www.mycowrie.org/login)**  
-  Crypto wallet & staking platform — Django, DRF, React, AWS, Web3, PostgreSQL
+#### 🛰️ Automated Trading (HFT) Platform
+> A microservice-based automated trading system using **broker APIs** to place and manage trades in real-time.  
+> Integrated with **Tradier** and **TradeStation** brokers for live execution.  
 
-- 🛍️ **Amazon Clone**  
-  Admin & Seller dashboards, product CRUD, reporting, payments — Django, DRF, React.js
+- **Backend**: Django-based microservices for order management, signal processing, and broker API integration  
+- **Frontend**: React.js dashboard for monitoring trades and signals  
+- **Infra**: Dockerized, CI/CD via **GitHub Actions**, deployed on **AWS** (ECS, S3, CloudWatch)  
+- **Key Features**: Async trading signals, auto order execution, logging to S3, Kafka for for sending signals, notification alerts, real-time status updates
 
-- 📡 **HFT Signal Processing API**  
-  High-frequency trading platform with Kafka, FastAPI, Celery, and S3 logging
+#### 📦 Inventory Management System
+> End-to-end inventory tracking and product management platform built with **Django + React.js**  
+- Features: Product CRUD, stock alerts, role-based access, and analytics  
+- Used for warehouse-level and retail-level inventory operations
 
-- 🧪 **Automated Mobile Testing Platform**  
-  Android Emulator (Pixel 4, API 34), Appium, Python automation framework
+#### 🎫 Event Management Platform
+> A full-featured event creation and attendee management system  
+- Stack: **Djnago**, **React.js**, **PostgreSQL**, **Docker**  
+- Features: Ticket registration, scheduling, event dashboards
+
+#### 📚 Book Store API (FastAPI)
+> REST API backend for a book store built using **FastAPI**  
+- CRUD for books and authors, order management  
+- Auto-generated Swagger UI, structured project layout, runs via **Uvicorn**
+
 
 ---
 
@@ -63,7 +76,7 @@ I am a **Full Stack Developer** with a strong focus on building scalable **backe
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anuragprajapati29/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:anurag.your.email@example.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
+  <a href="mailto:anurag.prajapatiktn@gmail"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" /></a>
 </p>
 
 ---

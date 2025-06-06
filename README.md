@@ -19,7 +19,7 @@ I am a **Full Stack Developer** with a strong focus on building scalable **backe
 - 🐍 **Python**: Django, Django REST Framework, Flask, FastAPI
 - 🛠️ API Design: REST, GraphQL, OAuth2, JWT
 - 🗃️ Databases: PostgreSQL, MySQL, SQLite, MongoDB, DynamoDB
-- ⚙️ DevOps: AWS (S3, EC2, Lambda, Redshift), Docker, GitHub Actions, Jenkins, EMR
+- ⚙️ DevOps: AWS (S3, EC2, Lambda, ECS, ECR, CloudWatch, Secret Manager, API Gateway), Docker, GitHub Actions
 
 #### 🎨 Frontend
 - 🧱 HTML, CSS, Bootstrap
